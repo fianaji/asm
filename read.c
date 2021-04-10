@@ -8,7 +8,7 @@ int main(int x,char*y[])
     char var[1024],var2[1024],l;
     int a,er,n,xx=0;
     register int b;
-    long double cc;/*please perfecting my code :(*/
+    long double cc;
     for(a=1;a<x;a++)
     {
 
